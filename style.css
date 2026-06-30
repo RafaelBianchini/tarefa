@@ -126,6 +126,6 @@ body {
 .contador-digito-texto {
     font-size: 16px;
     margin: 0;
-    color: var(--branco);
+    color: var(--verde);
     opacity: 0.8;
 }
